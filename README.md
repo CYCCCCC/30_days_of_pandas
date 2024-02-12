@@ -1,1 +1,2 @@
 # 30_days_of_pandas
+The study plan is designed for users who have some basics in Python and understand common data structures. You should be familiar with Python, like syntax, data types, conditional statements, loops, and functions. Furthermore, having a grasp of common data structures like lists, dictionaries, tuples, etc., and basic knowledge of Pandas data structures like DataFrame and Series will be beneficial.
